@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: Pronto Risarcimento
 subtitle: "SEMPLICET - VELOCE - AFFIDABILE"
-url: "https://github.com/campioncino/" # the base hostname & protocol for your site
+url: "https://pronto-risarcimento.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/pronto-risarcimento"
 cover: "/assets/cover.png"
